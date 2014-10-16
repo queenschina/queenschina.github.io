@@ -3,7 +3,7 @@ pygments:         true
 paginate:         4
 
 title:            皇冠家打榜组小站
-url:              http://127.0.0.1:4000
+url:              http://queenschina.github.io
 feed:             /atom.xml
 author:
     name:         QueensChina
