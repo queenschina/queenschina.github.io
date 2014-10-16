@@ -1,3 +1,5 @@
-###主题介绍
+### hello~~
 
-<a href="http://www.pizn.net/14-11-2012/theone-blog-theme/" title="theOne">Jekyll 博客主题 theOne</a>
+欢迎光临皇冠家打榜组小站。我们将会及时地为大家推送最新的打榜消息。
+
+本站模板源自PIZn
