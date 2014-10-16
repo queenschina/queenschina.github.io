@@ -1,0 +1,35 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         4
+
+title:            皇冠家打榜组小站
+url:              http://queenschina.github.io
+feed:             /atom.xml
+author:
+    name:         QueensChina
+    email:        queenschina@outlook.com
+    description:  "欢迎光临皇冠家打榜组小站。我们将会及时地为大家推送最新的打榜消息。"
+
+about:            "欢迎光临皇冠家打榜组小站。我们将会及时地为大家推送最新的打榜消息。"
+follow:
+    email:        queenschina@outlook.com
+    github:       https://github.com/queenschina
+    twitter:      http://www.twitter.com/#
+    google:       https://plus.google.com/#
+    facebook:     http://facebook.com/#
+description:      欢迎光临皇冠家打榜组小站。我们将会及时地为大家推送最新的打榜消息。
+
+indexContent:     true
+imageLink:        /images/banner.jpg
+
+
+style:            /css/style.css
+blogName:         皇冠家打榜组小站 
+blogDesc:         欢迎光临皇冠家打榜组小站。我们将会及时地为大家推送最新的打榜消息。
+favicon:          /favicon.ico
+theme:            blue
+
+disqus:          #
+
+copyright:        Copyright © 2014-2014 QueensChina All rights reserved.
+test:             ok
