@@ -4,7 +4,7 @@ title: ◆140925打榜◇T-ARA迷你10辑Sugar Free音悦台教程
 description: 龙桢文化将独家代理T-ara在大中华区的所有商业活动与代言，巡演及公益慈善活动。为T-ara打造在中国更多更大的发展空间。<br>因此，代表着T-ara正式进军中国，进军中国？我们是否要全面探讨一下中国榜单？<br>所以，现在要做的是先把音悦台教程搞熟练，其他的榜单，才有继续研究下去的动力嘛
 keyword: 龙桢,T-ara,进军中国,中国榜单,音悦台,打榜
 date: 2014-09-25 17:36:00 +0800
-cata: 打榜
+category: 打榜
 ---
 
 原文链接：<a href="http://tieba.baidu.com/p/3314666957?see_lz=1" target="_blank">http://tieba.baidu.com/p/3314666957</a>

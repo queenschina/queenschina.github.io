@@ -1,14 +1,10 @@
 ---
 layout: default
-date: 首页
+date: 打榜链接
 ---
 {% for rpost in paginator.posts %}
 	<article class="post fn-clear">
-        <h2 class="post-title">
-		{% capture post_year %}{{ rpost.date | date: '%Y' }}{% endcapture %}
-		{% if post_year == '2099' %}<b><font color="red">[置顶] </font></b>{% endif %}
-		<a href="{{ site.url }}{{ rpost.url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a>
-		</h2>
+        <h2 class="post-title"><a href="{{ site.url }}{{ rpost.url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a></h2>
         <p class="time"><time pubdate="{{ rpost.date }}">{{ rpost.date | date_to_string }}</time></p>
         {% if site.indexContent == true %}
         {{ rpost.content }}
